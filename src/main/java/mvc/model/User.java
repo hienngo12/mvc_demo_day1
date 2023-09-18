@@ -3,20 +3,40 @@ package mvc.model;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class User {
     private String name;
-    private String lastName;
-    private String detail;
+    private String lastname;
     private String password;
+    private String detail;
     @DateTimeFormat(pattern = "yyyy-MM-dd")
-    private LocalDate birthDate;
-    private Gender gender = Gender.Male;
+    private LocalDate birthday;
+    private  Gender gender = Gender.Male;
     private String country;
-    private boolean noSmoking;
+    private  boolean nonSmoking;
 
-    public User() {
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getLastname() {
+        return lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public String getDetail() {
@@ -25,6 +45,14 @@ public class User {
 
     public void setDetail(String detail) {
         this.detail = detail;
+    }
+
+    public LocalDate getBirthday() {
+        return birthday;
+    }
+
+    public void setBirthday(LocalDate birthday) {
+        this.birthday = birthday;
     }
 
     public Gender getGender() {
@@ -43,43 +71,11 @@ public class User {
         this.country = country;
     }
 
-    public boolean isNoSmoking() {
-        return noSmoking;
+    public boolean isNonSmoking() {
+        return nonSmoking;
     }
 
-    public void setNoSmoking(boolean noSmoking) {
-        this.noSmoking = noSmoking;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
-    public LocalDate getBirthDate() {
-        return birthDate;
-    }
-
-    public void setBirthDate(LocalDate birthDate) {
-        this.birthDate = birthDate;
+    public void setNonSmoking(boolean nonSmoking) {
+        this.nonSmoking = nonSmoking;
     }
 }

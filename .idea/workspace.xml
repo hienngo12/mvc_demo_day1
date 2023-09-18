@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f6c1018-0902-4107-a618-a4b092ada332" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/jaspic-providers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/jaspic-providers.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/tomcat-users.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.smarttomcat/mvc_hello/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/Catalina/localhost/ROOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/jaspic-providers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/jaspic-providers.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/tomcat-users.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/catalina.2024-08-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/catalina.2024-08-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/host-manager.2024-08-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/host-manager.2024-08-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost.2024-08-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost.2024-08-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2024-08-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2024-08-18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/manager.2024-08-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/manager.2024-08-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/userForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/userResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/main/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/model/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/ROOT/SESSIONS.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/views/jsp/userForm_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/views/jsp/userForm_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/views/jsp/userResult_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/views/jsp/userResult_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/mvc_hello/SESSIONS.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hienngo12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hienngo12/mvc_demo_day1.git",
+    "accountId": "f0099638-1a0c-4e09-82de-079c6af3348e"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kjtGknA7mTzsDsCt8Vsf23Ylb1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.Tomcat: mvc_hello.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/java/demo_spring/mvc_demo_day1",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat: mvc_hello" type="com.poratu.idea.plugins.tomcat" temporary="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="E:\java\demo_spring\demo_day7\mvc_demo_day1" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.62" />
+          <option name="path" value="$PROJECT_DIR$/../../../apache-tomcat-9.0.62/apache-tomcat-9.0.62" />
+          <option name="version" value="9.0.62.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="mvc_hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Smart Tomcat.Tomcat: mvc_hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6c1018-0902-4107-a618-a4b092ada332" name="Changes" comment="" />
+      <created>1723808719852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723808719852</updated>
+    </task>
+    <servers />
+  </component>
+</project>
